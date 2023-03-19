@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(222, 255, 255);
+}
+h1{
+    font-size: xxx-large;
+    color:rgb(11, 95, 22);
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+p{
+    font-family: 'Varela Round', sans-serif;
+    font-size: large;
+    text-align: justify;
+    padding: 1%;
+}
+h2{
+    font-size: x-large;
+    color:rgb(11, 95, 22);
+    font-family: 'Lobster', cursive;
+    text-align: center;
+}
+ img{
+    padding-left: 20%;
+    padding-right: 20%;
+}
